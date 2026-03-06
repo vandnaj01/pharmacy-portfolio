@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Critical Review: Diabetes Prevention Program Trial</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+<h1>What I Learned from the Diabetes Prevention Program Trial: A Critical Review</h1>
+
+ <p>
+During my course on critically interpreting randomized clinical trials (RCTs), 
+I analyzed the landmark Diabetes Prevention Program published in 2002. 
+This study compared intensive lifestyle modification with metformin therapy 
+for preventing type 2 diabetes in high-risk individuals. Studying this trial helped me understand how evidence is generated, analyzed, and translated into clinical decision-making
+</p>
+
+<hr>
+
+<h2>Background: Why This Study Matters</h2>
+
+<p>
+Type 2 diabetes mellitus (T2DM) is a progressive metabolic disorder associated 
+with serious complications such as cardiovascular disease, neuropathy, 
+nephropathy, and retinopathy. Individuals with impaired glucose tolerance (IGT) 
+are at particularly high risk.
+</p>
+
+<p><strong>Clinical Question:</strong><br>
+Can intensive lifestyle intervention or metformin therapy prevent or delay 
+the onset of type 2 diabetes in high-risk individuals?
+This question has major implications for public health, cost burden, and long-term patient outcomes.
+</p>
+
+<hr>
+
+<h2>Study Design: Understanding the Methodology</h2>
+
+<p>
+The Diabetes Prevention Program was a multicenter randomized controlled trial 
+conducted across 27 centers in the United States.
+</p>
+
+<h3>Participants</h3>
+<ul>
+    <li>3,234 adults</li>
+    <li>BMI ≥ 24 kg/m² (≥ 22 kg/m² for Asians)</li>
+    <li>Impaired fasting glucose and impaired glucose tolerance</li>
+    <li>Mean age: 51 years</li>
+</ul>
+
+<h3>Randomization Groups</h3>
+<ol>
+    <li><strong>Intensive Lifestyle Intervention</strong>
+        <ul>
+            <li>≥7% weight loss target</li>
+            <li>≥150 minutes of moderate physical activity per week</li>
+            <li>Structured behavioral counseling</li>
+        </ul>
+    </li>
+
+    <li><strong>Metformin Group</strong>
+        <ul>
+            <li>850 mg twice daily</li>
+        </ul>
+    </li>
+
+    <li><strong>Placebo Group</strong></li>
+</ol>
+
+<p>
+The metformin and placebo arms were double-blinded. The lifestyle arm 
+could not be blinded due to the nature of the intervention.
+Participants were followed for an average of 2.8 years.
+</p>
+
+<hr>
+
+<h2>Statistical Results: What the Numbers Showed</h2>
+
+<h3>Incidence Rates</h3>
+<ul>
+    <li>Placebo group: 11.0 cases per 100 person-years</li>
+    <li>Metformin group: 7.8 cases per 100 person-years</li>
+    <li>Lifestyle group: 4.8 cases per 100 person-years</li>
+</ul>
+
+<h3>Relative Risk Reduction</h3>
+<ul>
+    <li>Lifestyle intervention reduced diabetes incidence by 58%</li>
+    <li>Metformin reduced incidence by 31%</li>
+</ul>
+
+<h3>Statistical Significance</h3>
+<ul>
+    <li>Lifestyle vs placebo: p &lt; 0.001</li>
+    <li>Metformin vs placebo: p &lt; 0.001</li>
+</ul>
+    <p>
+The confidence intervals did not cross unity, indicating a true treatment effect.
+The study used intention-to-treat analysis, strengthening reliability.
+The trial was stopped early due to clear benefit of lifestyle intervention.
+</p>
+    <h3>Absolute Risk Reduction (Approximate)</h3>
+    <ul>
+<li>Using cumulative incidence data:</li>
+<li>Absolute risk reduction for lifestyle intervention was substantially higher than metformin.</li>
+<li>This translates into a lower Number Needed to Treat (NNT) for lifestyle intervention compared to metformin.</li>
+        </ul>
+<hr>
+    <p> One important methodological point I noticed was that the study used intention-to-treat analysis, which strengthens the reliability of results by analyzing participants in the groups to which they were originally assigned.
+Interestingly, the trial was stopped early because the benefit of lifestyle intervention became clearly evident during interim analysis.
+</p>
+
+<h2>Strengths of the Study</h2>
+<ul>
+    <li>Large sample size (3,234 participants)</li>
+    <li>Randomized controlled design</li>
+    <li>Multicenter trial</li>
+    <li>Ethnically diverse population</li>
+    <li>Diagnosis confirmed with repeat testing</li>
+    <li>Intention-to-treat analysis</li>
+    <li>Strong statistical significance</li>
+</ul>
+
+<hr>
+
+<h2>Limitations of the Study</h2>
+<ul>
+    <li>Lifestyle intervention may not be easily replicable in real-world settings</li>
+    <li>Adherence may vary outside controlled conditions</li>
+    <li>Lifestyle arm was not blinded (potential performance bias)</li>
+    <li>High cost and resource intensity</li>
+</ul>
+
+<hr>
+
+<h2>Clinical Implications</h2>
+
+<ul>
+    <li>Lifestyle modification should be first-line preventive strategy</li>
+    <li>Metformin is useful in high-risk individuals unable to maintain lifestyle changes</li>
+    <li>Prevention strategies significantly reduce long-term disease burden</li>
+</ul>
+
+<p>
+This trial shifted the focus from treatment to prevention and demonstrated 
+that behavioral interventions can produce measurable, statistically 
+significant clinical impact.
+</p>
+
+<hr>
+
+<h2>Reference</h2>
+
+<p>
+Knowler WC, Barrett-Connor E, Fowler SE, et al. (2002). 
+Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. 
+<em>New England Journal of Medicine</em>, 346(6), 393–403.
+</p>
+
+<p>
+DOI: <a href="https://doi.org/10.1056/NEJMoa012512" target="_blank">
+https://doi.org/10.1056/NEJMoa012512
+</a>
+</p>
+        
+<p><a href="index.html">← Back to Home</a></p>
+ </div>
+</body>
+</html>
+
+
+
+
